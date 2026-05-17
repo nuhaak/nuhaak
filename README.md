@@ -1,4 +1,4 @@
-### Welcome, I'm Nuhaa 
+### Welcome, I'm Nuhaa 🌌
 
 ### CS student • Cosmic Enthusiast • High-fidelity builder 
 
@@ -11,6 +11,4 @@
 ---
 
 ### Metric Analysis
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhaak&layout=compact&theme=tokyonight)
-
