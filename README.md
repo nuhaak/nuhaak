@@ -1,6 +1,6 @@
-### Hello, I'm Nuhaa 🪐
+### Hello, I'm Nuhaa 
 
-### CS student • Cosmic Enthusiast • High-fidelity builder 
+### CS student • Cosmic Enthusiast 
 
 ### ⚙️ Current side quests
 * 💻 Engineering clean, fast code and building systems with real impact.
