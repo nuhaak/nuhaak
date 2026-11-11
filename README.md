@@ -1,8 +1,5 @@
 ### Hello, I'm Nuhaa 
 
-### CS student • Cosmic Enthusiast 
+### while (studying_cs) { secure(systems); gaze_at(cosmos); }
 
-### ⚙️ Current side quests
-* 💻 Engineering clean, fast code and building systems with real impact.
-* 🌌 Exploring astronomy, advanced mathematics, and solving complex data riddles.
 
